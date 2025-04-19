@@ -22,7 +22,7 @@ function Hero() {
             View My Work
           </a>
           <a
-          href="/assets/resume/resume.pdf" download='resume'
+          href="/portfolio/assets/resume/resume.pdf" download='resume'
             className="border-2 border-[#64ffda] text-[#64ffda] px-6 py-3 rounded-md font-medium hover:bg-[#64ffda] hover:text-[#0a192f] transition"
           >
             Download CV
