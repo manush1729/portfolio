@@ -1,0 +1,82 @@
+{
+  "name":"Manush Sekaran C",
+  "profile_photo":"/manush.jpeg",
+  "email":"manush1729@gmail.com",
+  "social_media":[
+    {
+      "platform":"LinkedIn",
+      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+    },
+    {
+      "platform":"GitHub",
+      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+    },
+    {
+      "platform":"Instagram",
+      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+    }
+  ],
+  "profile":"I'm a Cyber Security Engineer specializing in penetration testing, network ddsecurity, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.",
+  "about":"I'm a Cyber Security Engineer specializing in penetration testing, network ddsecurity, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.",
+  "education":[
+    {
+      "degree":"Bachelor of Technology in Information Technology",
+      "institution":"SRM Institute of Science and Technology",
+      "year":"2020 - 2024",
+      "type":"CGPA",
+      "marks":"8.5/10"
+    },
+    {
+      "degree":"HSC (12th Grade)",
+      "institution":"SRM Institute of Science and Technology",
+      "year":"2020 - 2024",
+      "type":"Percentage",
+      "marks":"8.5/10"
+    },
+    {
+      "degree":"SSLC (10th Grade)",
+      "institution":"SRM Institute of Science and Technology",
+      "year":"2020 - 2024",
+      "type":"Percentage",
+      "marks":"8.5/10" 
+    }
+  ],
+  "skills":[
+    "CCNA",
+    "CCNP",
+    "AWS",
+    "Linux"
+  ],
+  "certifications":[
+    {
+      "name":"Cisco Certified Network Associate (CCNA)",
+      "image":"/cisco_image.jpg",
+      "institution":"Cisco",
+      "id":"CSCO14900750",
+      "link":"",
+      "year":"2023",
+      "description":"The CCNA certification validates knowledge and skills in networking fundamentals, IP connectivity, security fundamentals, and automation."
+    },
+    {
+      "name":"Data Strucutures and Algorithms using Java",
+      "institution":"NPTEL",
+      "year":"2022",
+      "link":"",
+      "description":"The Data Structures and Algorithms certification from NPTEL demonstrates proficiency in data structures, algorithms, and their applications in problem-solving."
+    }
+  ],
+  "projects":[
+    {
+      "name":"IoT-based Smart Home Automation System",
+      "description":"Developed a smart home automation system using IoT devices, enabling remote control and monitoring of home appliances through a mobile app.",
+      "technologies":["Arduino", "ESP8266", "Android Studio"],
+      "link":"dd"
+    },
+    {
+      "name":"Network Security Analysis Tool",
+      "description":"Created a network security analysis tool to identify vulnerabilities in network configurations and provide recommendations for improvement.",
+      "technologies":["Python", "Wireshark", "Nmap"],
+      "link":""
+    }
+  ]
+}
