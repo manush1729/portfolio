@@ -16,7 +16,7 @@
       "url":"https://www.instagram.com/one_seven_two_nine/"
     }
   ],
-  "profile":"I'm a Cyber Security Engineer specializing in penetration testing, network ddsecurity, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.",
+  "profile":"Certified Network Engineer with a strong foundation in configuring and managing network infrastructures. Proficient in routing, switching, and network troubleshooting, backed by Cisco CCNA certification. Experienced in Windows Server 2019 and ethical hacking to enhance network security. Skilled in deploying scalable, secure cloud solutions using a wide range of AWS services including EC2, S3, IAM, Lambda, RDS, VPC, Auto Scaling, ELB, and CloudWatch.",
   "about":"I am a certified Network Engineer with a solid background in configuring and managing network infrastructures. Having completed the Cisco CCNA certification, I possess strong skills in routing, switching, and network troubleshooting. I also have hands-on experience with Windows Server 2019 and ethical hacking to strengthen network security. In addition, I am well-versed in a variety of AWS services such as EC2, S3, IAM, Lambda, RDS, and more. My expertise includes designing and deploying scalable, secure cloud solutions using VPC, Auto Scaling, ELB, and CloudWatch.",
   "education":[
     {
@@ -29,14 +29,14 @@
     {
       "degree":"HSC (12th Grade)",
       "institution":"Mahatma Montessori CBSE School, Madurai",
-      "year":"2020 - 2024",
+      "year":"2019 - 2020",
       "type":"Percentage",
       "marks":"83%"
     },
     {
       "degree":"SSLC (10th Grade)",
       "institution":"Mahatma Montessori CBSE School, Madurai",
-      "year":"2020 - 2024",
+      "year":"2017 - 2018",
       "type":"Percentage",
       "marks":"73%" 
     }
@@ -46,7 +46,11 @@
     "CCNP",
     "AWS",
     "Linux",
-    "Windows Server"
+    "Windows Server",
+    "Ethical hacking",
+    "Wireshark",
+    "Networking",
+    "Firewall"
   ],
   "certifications":[
     {
@@ -60,6 +64,7 @@
     },
     {
       "name":"Data Strucutures and Algorithms using Java",
+      "image":"/dsa_image.jpeg",
       "institution":"NPTEL",
       "year":"2022",
       "link":"https://drive.google.com/file/d/1QJ0fOIG3Aa9eSHRK4_Udbz4i5MzbfsMB/view?usp=sharing",
@@ -68,16 +73,10 @@
   ],
   "projects":[
     {
-      "name":"IoT-based Smart Home Automation System",
-      "description":"Developed a smart home automation system using IoT devices, enabling remote control and monitoring of home appliances through a mobile app.",
-      "technologies":["Arduino", "ESP8266", "Android Studio"],
-      "link":"dd"
-    },
-    {
-      "name":"Network Security Analysis Tool",
-      "description":"Created a network security analysis tool to identify vulnerabilities in network configurations and provide recommendations for improvement.",
-      "technologies":["Python", "Wireshark", "Nmap"],
-      "link":""
+      "name":"An Intelligent Two-Layer Intrusion detection System for the Internet of Things",
+      "description":"Developed a two-layer intelligent intrusion detection system for IoT using flow-based and packet-based features. Implemented feature optimization to improve anomaly detection accuracy and reduce detection time. Minimized system time overhead for efficient real-time threat response.",
+      "technologies":["Arduino", "ESP8266", "Python"],
+      "link":"https://github.com/manush1729/An-Intelligent-Two-Layer-Intrusion-detection-System-for-the-Internet-of-Things"
     }
   ]
 }

@@ -32,7 +32,7 @@ function Certification() {
                     {cert.id}  </span>                    
                 </p>
               }
-              <a href="">
+              <a href={cert.link} target="_blank">
               <TbExternalLink className='text-2xl text-[#edff75] ' />
               </a>
              </section>

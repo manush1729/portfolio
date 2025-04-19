@@ -10,10 +10,10 @@ export default function SocialMedia() {
         <FaLinkedin className='scale-[2]' />
         </a>
         <a href={data.social_media[1].url}  target="_blank" rel="noopener noreferrer">
-        <FaInstagram className='scale-[2]'  />
+        <FaGithub className='scale-[2]'  />
         </a>
         <a href={data.social_media[2].url}  target="_blank" rel="noopener noreferrer">
-        <FaGithub className='scale-[2]'  />  
+        <FaInstagram className='scale-[2]'  />
         </a>
         </div>
   )
