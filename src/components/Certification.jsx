@@ -16,7 +16,7 @@ function Certification() {
            {
             cert.image &&
             <img
-            src={ '/assets/certificates/' + cert.image }
+            src={ '/portfolio/assets/certificates/' + cert.image }
             alt="CCNA Certification"
             className="w-32 h-32 md:w-40 md:h-40 object-contain rounded-md shadow-lg"
           />

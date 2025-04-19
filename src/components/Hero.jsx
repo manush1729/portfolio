@@ -32,7 +32,7 @@ function Hero() {
       <div className="relative z-10 flex justify-center items-center" data-aos="fade-left">
         <div className="relative  w-80 h-80 md:w-96 md:h-96">
           <img
-            src={'/assets' + data.profile_photo}
+            src={'/portfolio/assets' + data.profile_photo}
             alt="Manush Sekaran C"
             className="w-full relative z-10 h-full object-cover rounded-2xl shadow-lg transform transition hover:translate-y-[-5px]"
           />
