@@ -5,47 +5,48 @@
   "social_media":[
     {
       "platform":"LinkedIn",
-      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+      "url":"https://www.linkedin.com/in/manushsekaran1729/"
     },
     {
       "platform":"GitHub",
-      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+      "url":"https://github.com/manush1729"
     },
     {
       "platform":"Instagram",
-      "url":"https://www.linkedin.com/in/manush-sekaran-c-0b1a1b1b2/"
+      "url":"https://www.instagram.com/one_seven_two_nine/"
     }
   ],
   "profile":"I'm a Cyber Security Engineer specializing in penetration testing, network ddsecurity, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.",
-  "about":"I'm a Cyber Security Engineer specializing in penetration testing, network ddsecurity, and IoT solutions. Currently focused on building secure, scalable solutions with my Bachelor's in Cyber Security.",
+  "about":"I am a certified Network Engineer with a solid background in configuring and managing network infrastructures. Having completed the Cisco CCNA certification, I possess strong skills in routing, switching, and network troubleshooting. I also have hands-on experience with Windows Server 2019 and ethical hacking to strengthen network security. In addition, I am well-versed in a variety of AWS services such as EC2, S3, IAM, Lambda, RDS, and more. My expertise includes designing and deploying scalable, secure cloud solutions using VPC, Auto Scaling, ELB, and CloudWatch.",
   "education":[
     {
       "degree":"Bachelor of Technology in Information Technology",
-      "institution":"SRM Institute of Science and Technology",
+      "institution":"Mepco Schlenk Engineering College, Sivakasi",
       "year":"2020 - 2024",
       "type":"CGPA",
-      "marks":"8.5/10"
+      "marks":"6.79"
     },
     {
       "degree":"HSC (12th Grade)",
-      "institution":"SRM Institute of Science and Technology",
+      "institution":"Mahatma Montessori CBSE School, Madurai",
       "year":"2020 - 2024",
       "type":"Percentage",
-      "marks":"8.5/10"
+      "marks":"83%"
     },
     {
       "degree":"SSLC (10th Grade)",
-      "institution":"SRM Institute of Science and Technology",
+      "institution":"Mahatma Montessori CBSE School, Madurai",
       "year":"2020 - 2024",
       "type":"Percentage",
-      "marks":"8.5/10" 
+      "marks":"73%" 
     }
   ],
   "skills":[
     "CCNA",
     "CCNP",
     "AWS",
-    "Linux"
+    "Linux",
+    "Windows Server"
   ],
   "certifications":[
     {
@@ -53,7 +54,7 @@
       "image":"/cisco_image.jpg",
       "institution":"Cisco",
       "id":"CSCO14900750",
-      "link":"",
+      "link":"https://drive.google.com/file/d/1E7sW0CuHquOlb0AB-e6n5YX3k8w8JXuj/view?usp=drive_link",
       "year":"2023",
       "description":"The CCNA certification validates knowledge and skills in networking fundamentals, IP connectivity, security fundamentals, and automation."
     },
@@ -61,7 +62,7 @@
       "name":"Data Strucutures and Algorithms using Java",
       "institution":"NPTEL",
       "year":"2022",
-      "link":"",
+      "link":"https://drive.google.com/file/d/1QJ0fOIG3Aa9eSHRK4_Udbz4i5MzbfsMB/view?usp=sharing",
       "description":"The Data Structures and Algorithms certification from NPTEL demonstrates proficiency in data structures, algorithms, and their applications in problem-solving."
     }
   ],
